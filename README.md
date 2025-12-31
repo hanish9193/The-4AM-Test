@@ -1,4 +1,4 @@
-# The 4AM Test: Official Happiness vs Hidden Distres
+# The 4AM Test: Official Happiness vs Hidden Distress
 
 <div align="center">
 
